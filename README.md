@@ -1,7 +1,5 @@
-# excel-bike-buyers-analysis-
-“Excel-based data analysis project featuring data cleaning, pivot tables, KPI analysis, and a final dashboard.”
 # Bike Buyers Analysis – Excel Project
-
+“Excel-based data analysis project featuring data cleaning, pivot tables, KPI analysis, and a final dashboard.”
 This project analyzes customer behavior related to bike purchases using Excel.
 
 ## Tools
